@@ -1,0 +1,240 @@
+[
+    {
+        "moviefile": "/groups/branson/bransonlab/projects/DanionellaFieldTrip/Restitched/VID_20241209_050417_00_002.mp4",
+        "x0_recenter": 4380,
+        "y0s": [
+            1320
+        ],
+        "y1s": [
+            2280
+        ],
+        "x0s": [
+            0,
+            960,
+            1920,
+            2880,
+            3840,
+            4800
+        ],
+        "x1s": [
+            960,
+            1920,
+            2880,
+            3840,
+            4800,
+            5760
+        ],
+        "t0": 0,
+        "t1": 17645
+    },
+    {
+        "moviefile": "/groups/branson/bransonlab/projects/DanionellaFieldTrip/Restitched/VID_20241209_155230_00_008.mp4",
+        "x0_recenter": 1400,
+        "y0s": [
+            1320
+        ],
+        "y1s": [
+            2280
+        ],
+        "x0s": [
+            0,
+            960,
+            1920,
+            2880,
+            3840,
+            4800
+        ],
+        "x1s": [
+            960,
+            1920,
+            2880,
+            3840,
+            4800,
+            5760
+        ],
+        "t0": 0,
+        "t1": 2063
+    },
+    {
+        "moviefile": "/groups/branson/bransonlab/projects/DanionellaFieldTrip/Restitched/VID_20241211_103309_00_023.mp4",
+        "x0_recenter": 0,
+        "y0s": [
+            945
+        ],
+        "y1s": [
+            1905
+        ],
+        "x0s": [
+            0,
+            960,
+            1920,
+            2880,
+            3840,
+            4800
+        ],
+        "x1s": [
+            960,
+            1920,
+            2880,
+            3840,
+            4800,
+            5760
+        ],
+        "t0": 500,
+        "t1": 4300
+    },
+    {
+        "moviefile": "/groups/branson/bransonlab/projects/DanionellaFieldTrip/Restitched/VID_20241211_103015_00_022.mp4",
+        "x0_recenter": 6000,
+        "y0s": [
+            1770
+        ],
+        "y1s": [
+            2730
+        ],
+        "x0s": [
+            0,
+            960,
+            1920,
+            2880,
+            3840,
+            4800,
+            5760,
+            6720
+        ],
+        "x1s": [
+            960,
+            1920,
+            2880,
+            3840,
+            4800,
+            5760,
+            6720,
+            7680
+        ],
+        "t0": 500,
+        "t1": 3400
+    },
+    {
+        "moviefile": "/groups/branson/bransonlab/projects/DanionellaFieldTrip/Restitched/VID_20241211_115739_00_032.mp4",
+        "x0_recenter": 5600,
+        "y0s": [
+            1390,
+            2350
+        ],
+        "y1s": [
+            2350,
+            3310
+        ],
+        "x0s": [
+            0,
+            960,
+            1920,
+            2880,
+            3840,
+            4800,
+            5760,
+            6720
+        ],
+        "x1s": [
+            960,
+            1920,
+            2880,
+            3840,
+            4800,
+            5760,
+            6720,
+            7680
+        ],
+        "t0": 250,
+        "t1": 5122
+    },
+    {
+        "moviefile": "/groups/branson/bransonlab/projects/DanionellaFieldTrip/Restitched/VID_20241211_115507_00_031.mp4",
+        "x0_recenter": 0,
+        "y0s": [
+            1220
+        ],
+        "y1s": [
+            2180
+        ],
+        "x0s": [
+            0,
+            960,
+            1920,
+            2880,
+            3840,
+            4800
+        ],
+        "x1s": [
+            960,
+            1920,
+            2880,
+            3840,
+            4800,
+            5760
+        ],
+        "t0": 400,
+        "t1": 7673
+    },
+    {
+        "moviefile": "/groups/branson/bransonlab/projects/DanionellaFieldTrip/Restitched/VID_20241211_142704_00_033.mp4",
+        "x0_recenter": 1700,
+        "y0s": [
+            1720
+        ],
+        "y1s": [
+            2680
+        ],
+        "x0s": [
+            0,
+            960,
+            1920,
+            2880,
+            3840,
+            4800,
+            5760,
+            6720
+        ],
+        "x1s": [
+            960,
+            1920,
+            2880,
+            3840,
+            4800,
+            5760,
+            6720,
+            7680
+        ],
+        "t0": 282,
+        "t1": 1274
+    },
+    {
+        "moviefile": "/groups/branson/bransonlab/projects/DanionellaFieldTrip/Restitched/VID_20241211_143206_00_035.mp4",
+        "x0_recenter": 0,
+        "y0s": [
+            1220
+        ],
+        "y1s": [
+            2180
+        ],
+        "x0s": [
+            0,
+            960,
+            1920,
+            2880,
+            3840,
+            4800
+        ],
+        "x1s": [
+            960,
+            1920,
+            2880,
+            3840,
+            4800,
+            5760
+        ],
+        "t0": 813,
+        "t1": 2032
+    }
+]
